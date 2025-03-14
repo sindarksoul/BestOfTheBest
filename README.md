@@ -12,9 +12,9 @@ BestOfTheBest operates through a structured, fully automated pipeline:
 📝 rename_folders.exe – Instantly renames all subfolders while keeping internal data intact, ensuring organized processing.
 📦 compile_data.exe – Recursively scans directories, extracting hidden credentials from critical files and compiling the data into structured logs.
 🔑 dline.exe – Extracts credentials based on a user-provided keyword, isolating what truly matters.
-⚙️ main.exe – The command center that orchestrates the entire process, ensuring seamless execution of each stage.
+⚙️ BestOfTheBest.exe – The command center that orchestrates the entire process, ensuring seamless execution of each stage.
 📜 Step-by-Step Execution
-🏁 Run main.exe to launch the workflow.
+🏁 Run BestOfTheBest.exe to launch the workflow.
 🔄 Folders are automatically renamed, ensuring a clean, structured directory.
 📂 Data is compiled and extracted, saving all relevant credentials.
 🔍 A keyword-based filter is applied, narrowing results to match specific needs.
@@ -51,7 +51,7 @@ Run the Tool:
 sh
 Copy
 Edit
-main.exe
+BestOfTheBest.exe
 
 
 🌟 The Journey Behind This Build
