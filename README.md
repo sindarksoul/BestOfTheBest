@@ -40,7 +40,7 @@ Clone the Repository:
 sh
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/BestOfTheBest.git
+git clone https://github.com/sindarksoul/BestOfTheBest.git
 cd BestOfTheBest
 Install Dependencies:
 sh
@@ -52,6 +52,8 @@ sh
 Copy
 Edit
 BestOfTheBest.exe
+
+🚀 The 4 Executables could be used idividually too... Try them out!!
 
 
 🌟 The Journey Behind This Build
