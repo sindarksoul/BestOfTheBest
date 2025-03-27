@@ -1,0 +1,35 @@
+name: 🌟 Feature Request
+description: Suggest a feature or improvement for BOTB
+title: "[FEATURE] <brief description>"
+labels: [enhancement]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got a great idea to improve BOTB? Let's hear it!
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What's the feature?
+      description: Describe your idea in one or two sentences.
+      placeholder: I’d like BOTB to...
+
+    validations:
+      required: true
+
+  - type: textarea
+    id: benefit
+    attributes:
+      label: Why is this feature useful?
+      description: Explain who it helps and how it improves the tool.
+      placeholder: Helps when working with larger datasets, or...
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Optional Implementation Ideas
+      description: Any code ideas or tools that could help build this?
+      placeholder: Could use multithreading or subprocess module to handle...
