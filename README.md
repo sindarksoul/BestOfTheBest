@@ -9,7 +9,7 @@ It seamlessly handles folder renaming, Base64 decoding, credential extraction, a
 
 - ✅ Smart folder renaming (preserves nested structure)
 - 🔐 Auto-extracts and compiles credentials from `.txt` files
-- 🧪 Executes post-extraction automation (`dline.py`)
+- 🧪 Executes post-extraction automation (`dline.exe`)
 - 📝 Generates logs: `debug.txt`, `jobdone.txt`, `compilation.txt`
 - 🔁 Step-by-step, auto-synchronized process (no overlaps or skips)
 - ⚡ Progress tracker with visible numbered steps
@@ -25,7 +25,7 @@ It seamlessly handles folder renaming, Base64 decoding, credential extraction, a
    - Decodes Base64 files
    - Extracts and compiles credentials from valid `.txt` files
    - Deletes unneeded `.txt` files from root
-3. Runs `dline.py` for post-processing
+3. Runs `dline.exe` for post-processing
 4. Writes all logs to designated files
 5. Exits cleanly once all tasks are done
 
